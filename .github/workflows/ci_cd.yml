@@ -38,4 +38,4 @@ jobs:
 
       - name: Update Databricks Repo
         run: |
-          databricks repos update REPO_ID --branch main
+          databricks repos update4172731679657168--branch main
